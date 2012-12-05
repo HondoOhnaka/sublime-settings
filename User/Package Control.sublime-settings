@@ -1,8 +1,15 @@
 {
-	"auto_upgrade_last_run": 1348772332,
+	"auto_upgrade_last_run": 1354725041,
 	"installed_packages":
 	[
+		"Anypreter",
+		"Gist",
 		"Package Control",
 		"Theme - Soda"
+	],
+	"repository_channels":
+	[
+		"https://sublime.wbond.net/repositories.json",
+		""
 	]
 }
